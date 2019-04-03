@@ -12,11 +12,7 @@ response(1000);
 esp.println("AT+CWMODE=1"); 
 response(2000);
 esp.println("AT+CWJAP=\"SSIDNAME\",\"SSIDPASSWORD\"\r\n"); 
-response(10000); 
-esp.println("AT+CIPMUX=1");
-response(2000); 
-esp.println ("AT+CIPSERVER=1,80");
-esp.println("AT+CIFSR"); 
+response(10000);  
 
 }
 void loop() { 
