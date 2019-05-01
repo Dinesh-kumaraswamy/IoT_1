@@ -5,8 +5,8 @@
 * [ESP8266 001](https://www.amazon.com/Makerfocus-ESP8266-Wireless-Transceiver-Compatible/dp/B01EA3UJJ4/ref=sr_1_fkmrnull_12_sspa?keywords=esp8266+001&qid=1556673961&s=electronics&sr=1-12-fkmrnull-spons&psc=1) - Buy on Amazon
 
 ## Specs 
-* black
-* 1Mb
+* Black
+* 1Mb memory on wifi module
 * DC3.0-3.6V 
 
 ## Materials Required for this project
@@ -15,6 +15,9 @@
 3) serial cable
 
 ## Procedure -1 is to configure wifi module
+
+Baud rate: It is the rate at which wifi module communicates with the computer and Wireless acess point
+
 
 
 
