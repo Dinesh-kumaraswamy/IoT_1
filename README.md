@@ -16,7 +16,7 @@
 
 ## Procedure -1 is to configure wifi module
 
-Baud rate: It is the rate at which wifi module communicates with the computer using serial cable and Wireless acess point via air
+Baud rate: It is the rate at which wifi module communicates with the computer via serial cable and Wireless acess point via air
 
 
 
