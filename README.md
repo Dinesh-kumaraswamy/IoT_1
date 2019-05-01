@@ -9,4 +9,14 @@
 * 1Mb
 * DC3.0-3.6V 
 
-## Procedure 
+## Materials Required for this project
+1) Ardunio Uno R3
+2) Patch cables
+3) serial cable
+
+## Procedure -1 is to configure wifi module
+
+
+
+## Procedure -2 is connect wifi module to Internet ( to Wireless Acess point) 
+This is an Wifi module to be integrated with Adrunio Uno R3.  
