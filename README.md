@@ -17,6 +17,7 @@
 ## Procedure -1 is to configure wifi module
 
 Baud rate: It is the rate at which wifi module communicates with the computer via serial cable and Wireless acess point via air
+
 Note: Change baud rate if necessary: AT+CIOBAUD=9600 
 
 ## Procedure -2 is connect wifi module to Internet ( to Wireless Acess point) 
