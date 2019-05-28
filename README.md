@@ -44,8 +44,10 @@ Note: Change baud rate if necessary: AT+CIOBAUD=9600 (or) AT+CIOBAUD=11200 ( 960
    Note: This code is a void code used in order to use transmission and receiver pin on Ardunio to communicate with the ESP8266 001
 6) Now Arunio IDE will state that the code has finished uploading also Ardunio and ESP 8266 001 inbuild LED will flash a couple of times.
 7) Now open the serial monitor on the Ardunio IDE and send AT commands
-8) Send "AT"
-9) Receive an acknowledgment "sent"
+8) Send "AT" and recieve acknowledgment
+9) send "AT+ CIOBAUD=9600" and recieve acknowledgment
+   Note: dont copy paste but type the code, follow image capture 19.jpg for other scrolldown options.
+   
 
 
 
