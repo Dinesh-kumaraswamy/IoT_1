@@ -25,8 +25,8 @@ Note: Change baud rate if necessary: AT+CIOBAUD=9600 (or) AT+CIOBAUD=11200 ( 960
 
 ## Procedure -1 is to configure wifi module (i.e change the baud rate)
 
-1] Make the circuit connections as stated in circuit diagram ( refer to the image in capture.jpg folder) 
-2] Connect the serial cable to USB of your computer
+1) Make the circuit connections as stated in circuit diagram ( refer to the image in capture.jpg folder) 
+2) Connect the serial cable to USB of your computer
 3) Open Arduino IDE, click "file" ( top left corner, on the bar ), click "new" to upload the below code
 
                      void setup() {
@@ -42,14 +42,12 @@ Note: Change baud rate if necessary: AT+CIOBAUD=9600 (or) AT+CIOBAUD=11200 ( 960
 4) Clieck on "tools" and ensure Ardunio/Genuino Uno borad is selected and Apporiate port number is selected 
 5) Now verify and upload the code 
    Note: This code is a void code used in order to use transmission and receiver pin on Ardunio to communicate with the ESP8266 001
-6) Now Arunio IDE will state that the code has finished uploading also Ardunio and ESP 8266 001 inbuild LED will flash a couple of times.
+6) Now Arunio IDE will state that the code has finished uploading also Ardunio and ESP 8266 001 inbuild LED will flash a couple of  
+   times.
 7) Now open the serial monitor on the Ardunio IDE and send AT commands
 8) Send "AT" and recieve acknowledgment
 9) send "AT+ CIOBAUD=9600" and recieve acknowledgment
    Note: dont copy paste but type the code, follow image capture 19.jpg for other scrolldown options.
    
-
-
-
-## Procedure -2 is connect wifi module to Internet ( to Wireless Acess point) 
+## Procedure -2 is to connect wifi module to Internet (or) Wireless Acess point
 This is an Wifi module to be integrated with Adrunio Uno R3.  
