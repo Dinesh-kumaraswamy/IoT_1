@@ -85,5 +85,10 @@ Note: Change baud rate if necessary: AT+CIOBAUD=9600 (or) AT+CIOBAUD=11200 ( 960
                    esp.println ("AT+CIPSERVER=1,80");
                    esp.println("AT+CIFSR");  
                    }
+4) Clieck on "tools" and ensure Ardunio/Genuino Uno borad is selected and Apporiate port number is selected 
+5) Now verify and upload the code 
+6) Now Arunio IDE will state that the code has finished uploading also Ardunio and ESP 8266 001 inbuild LED will flash a couple of  
+   times.
+7) Now open the serial monitor on the Ardunio IDE to see the ESP 8266 wifi module connecting to your wireless acess point
 
 
