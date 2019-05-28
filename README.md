@@ -59,3 +59,6 @@ Note: Change baud rate if necessary: AT+CIOBAUD=9600 (or) AT+CIOBAUD=11200 ( 960
 ## Procedure -2 is to connect wifi module to Internet (or) Wireless Acess point
 
 1) 
+
+  ![Capture 31](https://user-images.githubusercontent.com/48098768/58504611-a0674500-8150-11e9-980b-b660f8f9f948.JPG)
+
