@@ -10,10 +10,10 @@
 * DC 3.0-3.6V 
 
 ## Components Required for this project
-1) [Ardunio Uno R3] (https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6) - Buy on Amazon
-2) [Jumper wires] (https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_2?keywords=wires+for+arduino&qid=1559065046&s=electronics&sr=1-2-spell) - Buy on Amazon
+1) [Ardunio Uno R3](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6) - Buy on Amazon
+2) [Jumper wires](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_2?keywords=wires+for+arduino&qid=1559065046&s=electronics&sr=1-2-spell) - Buy on Amazon
 3) [Serial cable]
-4) [Bread board] (https://www.amazon.com/EL-CP-003-Breadboard-Solderless-Distribution-Connecting/dp/B01EV6LJ7G/ref=sr_1_1_sspa?keywords=Bread+board%5D&qid=1559065145&s=electronics&sr=1-1-spons&psc=1) - Buy on Amazon
+4) [Bread board](https://www.amazon.com/EL-CP-003-Breadboard-Solderless-Distribution-Connecting/dp/B01EV6LJ7G/ref=sr_1_1_sspa?keywords=Bread+board%5D&qid=1559065145&s=electronics&sr=1-1-spons&psc=1) - Buy on Amazon
 
 ## Procedure -1 is to configure wifi module
 
