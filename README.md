@@ -28,7 +28,15 @@ Note: Change baud rate if necessary: AT+CIOBAUD=9600 (or) AT+CIOBAUD=11200 ( 960
 1] Make the circuit connections as stated in circuit diagram ( refer to the image in capture.jpg folder) 
 2] Connect the serial cable to USB of your computer
 3) Open Arduino IDE, click "file" ( top left corner, on the bar ), click "new"
-   
+                     void setup() {
+                       // put your setup code here, to run once:
+
+                        }
+
+                   void loop() {
+                   // put your main code here, to run repeatedly:
+
+                       }
 
 ## Procedure -2 is connect wifi module to Internet ( to Wireless Acess point) 
 This is an Wifi module to be integrated with Adrunio Uno R3.  
