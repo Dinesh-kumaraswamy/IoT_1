@@ -65,24 +65,25 @@ Note: Change baud rate if necessary: AT+CIOBAUD=9600 (or) AT+CIOBAUD=11200 ( 960
 2) Connect the serial cable to USB of your computer
 3) Open Arduino IDE, click "file" ( top left corner, on the bar ), click "new" to upload the below code
 
-#include <SoftwareSerial.h>
-SoftwareSerial esp(2, 3);
-void setup() { 
-// put your setup code here, to run once: 
-Serial.begin(9600);
-esp.begin(9600); 
-esp.println("AT"); 
-response(3000); 
-esp.println("AT+CIOBAUD=9600"); 
-response(1000); 
-esp.println("AT+CWMODE=1"); 
-response(2000);
-esp.println("AT+CWJAP=\"your_wifiname\",\"your_password\"\r\n"); 
-response(10000); 
-esp.println("AT+CIPMUX=1");
-response(2000); 
-esp.println ("AT+CIPSERVER=1,80");
-esp.println("AT+CIFSR");  
-}
+                    #include <SoftwareSerial.h>
+                    SoftwareSerial esp(2, 3);
+
+                    void setup() { 
+                   // put your setup code here, to run once: 
+                   Serial.begin(9600);
+                   esp.begin(9600); 
+                   esp.println("AT"); 
+                   response(3000); 
+                   esp.println("AT+CIOBAUD=9600"); 
+                   response(1000); 
+                   esp.println("AT+CWMODE=1"); 
+                   response(2000);
+                   esp.println("AT+CWJAP=\"your_wifiname\",\"your_password\"\r\n"); 
+                   response(10000); 
+                   esp.println("AT+CIPMUX=1");
+                   response(2000); 
+                   esp.println ("AT+CIPSERVER=1,80");
+                   esp.println("AT+CIFSR");  
+                   }
 
 
