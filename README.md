@@ -15,11 +15,17 @@
 3) Serial cable
 4) [Bread board](https://www.amazon.com/EL-CP-003-Breadboard-Solderless-Distribution-Connecting/dp/B01EV6LJ7G/ref=sr_1_1_sspa?keywords=Bread+board%5D&qid=1559065145&s=electronics&sr=1-1-spons&psc=1) - Buy on Amazon
 
-## Procedure -1 is to configure wifi module
 
-Baud rate: It is the rate at which wifi module communicates with the computer via serial cable and Wireless acess point via air
+## Defination
+
+Baud rate: It is the rate at which wifi module (ESP8266 001) communicates with the computer via Wireless acess point 
 
 Note: Change baud rate if necessary: AT+CIOBAUD=9600 
+
+## Procedure -1 is to configure wifi module (i.e change the baud rate)
+
+1] Make the circuit connections as stated in circuit diagram
+2] 
 
 ## Procedure -2 is connect wifi module to Internet ( to Wireless Acess point) 
 This is an Wifi module to be integrated with Adrunio Uno R3.  
