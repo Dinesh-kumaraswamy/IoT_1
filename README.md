@@ -51,7 +51,10 @@ Note: Change baud rate if necessary: AT+CIOBAUD=9600 (or) AT+CIOBAUD=11200 ( 960
 7) Now open the serial monitor on the Ardunio IDE and send AT commands
 8) Send "AT" and recieve acknowledgment
 9) send "AT+ CIOBAUD=9600" and recieve acknowledgment
-   Note: dont copy paste but type the code, follow image capture 19.jpg for other scrolldown options.
+   Note: dont copy paste but type the code, follow image below for other scrolldown options.
+   
+   ![Capture 19](https://user-images.githubusercontent.com/48098768/58503972-4c0f9580-814f-11e9-831c-d02dcc45c337.JPG)
+
    
 ## Procedure -2 is to connect wifi module to Internet (or) Wireless Acess point
 This is an Wifi module to be integrated with Adrunio Uno R3.  
