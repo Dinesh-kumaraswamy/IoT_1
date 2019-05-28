@@ -24,7 +24,7 @@ Note: Change baud rate if necessary: AT+CIOBAUD=9600
 
 ## Procedure -1 is to configure wifi module (i.e change the baud rate)
 
-1] Make the circuit connections as stated in circuit diagram
+1] Make the circuit connections as stated in circuit diagram ( refer to the image in capture folder) 
 2] 
 
 ## Procedure -2 is connect wifi module to Internet ( to Wireless Acess point) 
