@@ -85,6 +85,8 @@ Note: Change baud rate if necessary: AT+CIOBAUD=9600 (or) AT+CIOBAUD=11200 ( 960
                    esp.println ("AT+CIPSERVER=1,80");
                    esp.println("AT+CIFSR");  
                    }
+                   
+   Note: add software.seral.h libray to your arduino IDE 
 4) Clieck on "tools" and ensure Ardunio/Genuino Uno borad is selected and Apporiate port number is selected 
 5) Now verify and upload the code 
 6) Now Arunio IDE will state that the code has finished uploading also Ardunio and ESP 8266 001 inbuild LED will flash a couple of  
