@@ -25,7 +25,11 @@ Note: Change baud rate if necessary: AT+CIOBAUD=9600 (or) AT+CIOBAUD=11200 ( 960
 
 ## Procedure -1 is to configure wifi module (i.e change the baud rate)
 
-1) Make the circuit connections as stated in circuit diagram ( refer to the image in capture.jpg folder) 
+1) Make the circuit connections as stated in circuit diagram below 
+   ![Capture](https://user-images.githubusercontent.com/48098768/58503676-b6740600-814e-11e9-8d91-683b3530c7e0.JPG)
+
+
+
 2) Connect the serial cable to USB of your computer
 3) Open Arduino IDE, click "file" ( top left corner, on the bar ), click "new" to upload the below code
 
