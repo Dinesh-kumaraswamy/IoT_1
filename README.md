@@ -6,7 +6,7 @@
 
 ## Specs 
 * Black
-* 1 Mb memory 
+* 1 MB memory 
 * DC 3.0-3.6V 
 
 ## Components Required for this project
