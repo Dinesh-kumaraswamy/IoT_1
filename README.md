@@ -14,18 +14,21 @@
 2) [Jumper wires](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_2?keywords=wires+for+arduino&qid=1559065046&s=electronics&sr=1-2-spell) - Buy on Amazon
 3) Serial cable
 4) [Bread board](https://www.amazon.com/EL-CP-003-Breadboard-Solderless-Distribution-Connecting/dp/B01EV6LJ7G/ref=sr_1_1_sspa?keywords=Bread+board%5D&qid=1559065145&s=electronics&sr=1-1-spons&psc=1) - Buy on Amazon
+5) [Download and install Ardunio IDE on to your computer] (https://www.arduino.cc/en/Main/Software) - offical website
 
 
 ## Defination
 
 Baud rate: It is the rate at which wifi module (ESP8266 001) communicates with the computer via Wireless acess point 
 
-Note: Change baud rate if necessary: AT+CIOBAUD=9600 
+Note: Change baud rate if necessary: AT+CIOBAUD=9600 (or) AT+CIOBAUD=11200 ( 9600 baud rate best worked for me) 
 
 ## Procedure -1 is to configure wifi module (i.e change the baud rate)
 
-1] Make the circuit connections as stated in circuit diagram ( refer to the image in capture folder) 
-2] 
+1] Make the circuit connections as stated in circuit diagram ( refer to the image in capture.jpg folder) 
+2] Connect the serial cable to USB of your computer
+3) Open Arduino IDE, click "file" ( top left corner, on the bar ), click "new"
+   
 
 ## Procedure -2 is connect wifi module to Internet ( to Wireless Acess point) 
 This is an Wifi module to be integrated with Adrunio Uno R3.  
