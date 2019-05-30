@@ -17,7 +17,7 @@
 5) [Download and install Ardunio IDE on to your computer] (https://www.arduino.cc/en/Main/Software) - offical website
 
 
-## Defination
+## Definition
 
 Baud rate: It is the rate at which wifi module (ESP8266 001) communicates with the computer via Wireless acess point 
 
